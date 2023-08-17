@@ -1,10 +1,10 @@
 package com.ejercicios.ejerciciosudemy;
 
-public class EjercicioLoop1 {
+public class EjercicioLoopFactoriales {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		EjercicioLoop1 calculator = new EjercicioLoop1();
+		EjercicioLoopFactoriales calculator = new EjercicioLoopFactoriales();
 
 		System.out.println(calculator.calculateFactorial(5)); // Output: 120
 		System.out.println(calculator.calculateFactorial(4)); // Output: 24

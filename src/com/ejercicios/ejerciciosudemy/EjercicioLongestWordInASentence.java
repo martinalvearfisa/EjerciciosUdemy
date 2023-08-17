@@ -1,10 +1,10 @@
 package com.ejercicios.ejerciciosudemy;
 
-public class EjercicioMStringMagic4 {
+public class EjercicioLongestWordInASentence {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		EjercicioMStringMagic4 prueba = new EjercicioMStringMagic4();
+		EjercicioLongestWordInASentence prueba = new EjercicioLongestWordInASentence();
 		System.out.println(prueba.findLongestWord("A quick brown fox jumps over the lazy dog"));
 		System.out.println(prueba.findLongestWord("Java is an object oriented programming language"));
 	}

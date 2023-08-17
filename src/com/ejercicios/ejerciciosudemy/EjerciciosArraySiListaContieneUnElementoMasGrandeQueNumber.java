@@ -1,12 +1,12 @@
 package com.ejercicios.ejerciciosudemy;
 
-public class EjerciciosArray {
+public class EjerciciosArraySiListaContieneUnElementoMasGrandeQueNumber {
 
 	public static void main(String[] args) {
 		int[] array = { 1, 2, 3, 4 };
 		int number = 3;
-		EjerciciosArray ejerciciosArray = new EjerciciosArray(); // Create an instance of the class
-		boolean result = ejerciciosArray.doesHaveElementGreaterThan(array, number);
+		EjerciciosArraySiListaContieneUnElementoMasGrandeQueNumber ejerciciosArraySiListaContieneUnElementoMasGrandeQueNumber = new EjerciciosArraySiListaContieneUnElementoMasGrandeQueNumber(); // Create an instance of the class
+		boolean result = ejerciciosArraySiListaContieneUnElementoMasGrandeQueNumber.doesHaveElementGreaterThan(array, number);
 		System.out.println("Does the array have an element greater than " + number + "? " + result);
 	}
 
