@@ -1,11 +1,11 @@
 package com.ejercicios.ejerciciosudemy;
 
-public class EjercicioArrayMagic2 {
+public class EjercicioArrayMagicFoundTheSecondLargestElementInAList {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int[] array = { 1, 2, 3, 6, 5, 7, 3 };
-		EjercicioArrayMagic2 prueba = new EjercicioArrayMagic2();
+		EjercicioArrayMagicFoundTheSecondLargestElementInAList prueba = new EjercicioArrayMagicFoundTheSecondLargestElementInAList();
 		System.out.println(prueba.findSecondLargestElement(array));
 
 	}

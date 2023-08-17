@@ -3,11 +3,11 @@ package com.ejercicios.ejerciciosudemy;
 import java.util.ArrayList;
 import java.util.List;
 
-public class EjercicioArrayList {
+public class EjercicioArrayListDeterminarLosFactores {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		EjercicioArrayList nm = new EjercicioArrayList();
+		EjercicioArrayListDeterminarLosFactores nm = new EjercicioArrayListDeterminarLosFactores();
 
 		System.out.println(nm.determineAllFactors(6)); // Prints: [1, 2, 3, 6]
 		System.out.println(nm.determineAllFactors(12)); // Prints: [1, 2, 3, 4, 6, 12]
